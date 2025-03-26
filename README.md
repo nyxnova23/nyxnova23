@@ -13,7 +13,8 @@
 -  Ich möchte Systeme **verstehen, hinterfragen - und verbesssern**.
 -  nicht blind entwickeln, sondern **sinnvoll entwickeln**.
   
-🤝 Ich bin nicht neu in der Technik, ich arbeite nur etwas anders mit ihr. Denn meine **Leidenschaft** treibt mich an, eine **echte Veränderung** zu schaffen.
+🤝 Ich bin nicht neu in der Technik, ich arbeite nur etwas anders mit ihr.
+Denn meine **Leidenschaft** treibt mich an, eine **echte Veränderung** zu schaffen.
 -  Ich dokumentiere Systeme,
 -  erkenne Muster,
 -  baue Zukunft nicht auf Technik, sondern auf Bewusstsein.
