@@ -7,9 +7,9 @@
 - **Philosophie & Psychologie** (Verhalten, Bewusstsein, Systeme)
 - **Wissenschaft & Ethik** (Grenzen des Machbaren vs. des Richtigen)
 
-🌱 Derzeit lerne ich Full-Stack-Entwicklung mit Schwerpunkt auf Python & arbeite als integrierte **Forensik-Analystin mit Systembewusstsein**.
+🌱 Derzeit lerne ich Full-Stack-Entwicklung mit Schwerpunkt auf Python & arbeite eigenständig als **Analystin mit Systembewusstsein**.
 -  Ohne Zertifikat. Ohne Diplom. **Mit Tiefe. Mit Wahrnehmung. Mit Verantwortung**.
--  Ich glaube, dass Technologie nur dann kraftvoll ist, wenn sie mit **Bewusstsein** gestaltet wird.
+-  Ich glaube, dass Technologie nur dann kraftvoll ist, wenn sie mit **Menschlichkeit** gestaltet wird.
 -  Ich möchte Systeme **verstehen, hinterfragen - und verbesssern**.
 -  nicht blind entwickeln, sondern **sinnvoll entwickeln**.
   
@@ -17,7 +17,7 @@
 Denn meine **Leidenschaft** treibt mich an, eine **echte Veränderung** zu schaffen.
 -  Ich dokumentiere Systeme,
 -  erkenne Muster,
--  baue Zukunft nicht auf Technik, sondern auf Bewusstsein.
+-  baue Zukunft nicht nur auf Technik, sondern auf Bewusstsein.
 -  Ich bin noch lange nicht angekommen, aber ich weiß jetzt, wo es hingeht.
 
 🤓 Ich suche:
